@@ -1,4 +1,4 @@
 window.BLACKOUT_CONFIG = {
   url: 'https://rytflmgkxetqrbuxktxe.supabase.co',
-  key: 'INSERISCI-PUBLISHABLE-KEY'
+  key: 'sb_publishable_GckpoozcsRIcaeRRi4NpOg_PGcUDhqN'
 };
